@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Ahmad Marzuki. I'm a full-stack developer that mainly use MERN stack but I love to explore and learn new things. 
+My name is Ahmad Marzuki. I'm a front end developer that mainly use React but I love to explore and learn new things. Currently working at ProSpace, help turning offices into a smart spaces for better working experience.
 
-I'm currently working on saikou, a social media for anime & manga fans to share their interest. Feel free to check these repos: saikou, saikou-client, and saikou-server. Or just go to the [saikou deployed web](https://saikou.ahmadmarzuki.com).
+My personal project Saikou, is a social media for anime & manga fans to share their interest. Feel free to check these repos: saikou, saikou-client, and saikou-server. Or just go to the [saikou deployed web](https://saikou.ahmadmarzuki.com).
 
 You can also catch me on LinkedIn [here](https://www.linkedin.com/in/ahmad-marzuki/) or just pick my resume [here](https://ahmadmarzuki.com/resume.pdf).
 
